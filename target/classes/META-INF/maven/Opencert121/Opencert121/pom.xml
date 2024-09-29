@@ -20,7 +20,7 @@
                     <version>3.4.0</version>
                     <configuration>
                         <suiteXmlFiles>
-                            <suiteXmlFile>parallel.xml</suiteXmlFile>
+                            <suiteXmlFile>master.xml</suiteXmlFile>
                         </suiteXmlFiles>
                     </configuration>
                 </plugin>
